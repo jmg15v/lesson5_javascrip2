@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(June 24, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Jordan Geon)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment calculated the estimated tax and the tax brackey that someone would be in depending on their filing status and their taxable income)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to make the clear button clear the information that was calculated by the program)
+2. (How much of a difference it makes to file as a different status)
+3. (How to put all of the different ranges of numbers into cloud9 and it calculate correctly and in the correct order)
 
